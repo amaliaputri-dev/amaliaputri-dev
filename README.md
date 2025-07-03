@@ -34,7 +34,7 @@ Saya percaya bahwa teknologi seharusnya sederhana namun berdampak besar.
 ## 📫 Hubungi Saya
 
 - 📧 Email: farikurniawan201@email.com
-- 🌐 Website: (https://amaliaputri-dev.github.io)
+- 🌐 Website: [(https://amaliaputri-dev.github.io)](https://amaliaputri-dev.github.io/amaliaputri-profil/)
 - 💼 LinkedIn: [linkedin.com/in/fari-kurniawan](https://linkedin.com/in/fari-kurniawan)
 
 ---
